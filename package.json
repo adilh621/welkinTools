@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12"
+  },
+  "name": "welkintools",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilh621/welkinTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilh621/welkinTools/issues"
+  },
+  "homepage": "https://github.com/adilh621/welkinTools#readme"
+}
